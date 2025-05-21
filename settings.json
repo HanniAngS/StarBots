@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
-    "version": "1.12.1"   
+    "ip": "191.96.231.11", 
+    "port": 31465,   
+    "version": "1.21.3"   
   },
   
   "position": {
