@@ -1,12 +1,37 @@
 {
   "bot-accounts": [
     {
-      "username": "AFKBot1", 
+      "username": "StarBotPVP", 
       "password": "", 
       "type": "mojang"
     },
     {
-      "username": "AFKBot2", 
+      "username": "StarBotVanilla", 
+      "password": "", 
+      "type": "mojang"
+    },
+    {
+      "username": "StarBotBoxPVP", 
+      "password": "", 
+      "type": "mojang"
+    },
+    {
+      "username": "StarBotGAMEZONE", 
+      "password": "", 
+      "type": "mojang"
+    },
+    {
+      "username": "StarBotSMP", 
+      "password": "", 
+      "type": "mojang"
+    },
+    {
+      "username": "StarBotPrueba", 
+      "password": "", 
+      "type": "mojang"
+    },
+    {
+      "username": "StarBotPrueba2", 
       "password": "", 
       "type": "mojang"
     }
