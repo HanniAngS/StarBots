@@ -3,7 +3,7 @@
     {
       "username": "StarBotPVP1", 
       "password": "", 
-      "type": "offline"
+      "type": "mojang"
     },
     {
       "username": "StarBotVanilla1", 
@@ -28,8 +28,8 @@
   ],
 
   "server": {
-    "ip": "191.96.231.10", 
-    "port": 20071,   
+    "ip": "191.96.231.11", 
+    "port": 31465,   
     "version": "1.12.1"
   },
 
